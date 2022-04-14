@@ -8,10 +8,12 @@ i've always had a hard rule not to release my first map ever made for any game, 
 
 i'll try harder next time
 
-i don't know if it's possible to get all stars (and by extension the Extra exit) but Normal exit should be plausible
-
 
 VERSION HISTORY
+
+version 1.0.1 (2022-04-14)
+- removed the comment about not knowing if all stars can be acquired because claude did it
+- the actual map was not changed
 
 version 1.0 (2022-04-13)
 - why the fuck would i ever release another version of this shit
