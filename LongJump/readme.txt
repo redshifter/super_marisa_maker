@@ -12,5 +12,5 @@ My best score with hovering is 256. Can you go 1000 tiles?
 
 VERSION HISTORY
 
-Version 1.0 (2023-03-08)
+Version 1.0 (2023-03-20)
 - Released map. Length: 1000
